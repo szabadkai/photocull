@@ -1,0 +1,14 @@
+{
+  "name": "photo-cleaner-shared",
+  "version": "1.0.0",
+  "description": "Shared types and utilities for photo cleaner app",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
